@@ -28,7 +28,7 @@ Recent Chrome versions require allowing user scripts. Open `chrome://extensions`
 
 ### Android
 
-Chrome on Android does not support userscript extensions. Use **Firefox for Android**, install Violentmonkey, then add the script. For an app-like feel, open `instagram.com/direct/inbox/` and choose **Add to Home screen**.
+Chrome on Android does not support userscript extensions. Use **Firefox for Android**, install Violentmonkey, then add the script.
 
 
 ## How it works
