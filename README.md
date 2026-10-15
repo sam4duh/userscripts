@@ -7,6 +7,10 @@ A single userscript that keeps social sites from pulling you into endless feeds.
 
 Works on desktop (Firefox, Chrome, Brave, Edge and other Chromium browsers) and on Android via Firefox.
 
+## Screenshot
+
+![Instagram with Distraction Blocker: DMs only, no Reels or Explore](assets/instagram-dms-only.png)
+
 ## Install
 
 1. Install a userscript manager:
